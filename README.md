@@ -1,6 +1,3 @@
-Certainly! Here's a description you can use for your GitHub repository:
-
----
 
 # Railway Network Optimization
 
@@ -56,4 +53,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Adjust the sections and details as needed to better match your project and preferences.
